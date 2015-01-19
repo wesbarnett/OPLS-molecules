@@ -1,0 +1,13 @@
+; Methane
+[ CH4 ]
+ [ atoms ]
+   C      opls_138    -0.240     1
+   H1     opls_140     0.060     1
+   H2     opls_140     0.060     1
+   H3     opls_140     0.060     1
+   H4     opls_140     0.060     1
+ [ bonds ]
+   C      H1
+   C      H2
+   C      H3
+   C      H4
